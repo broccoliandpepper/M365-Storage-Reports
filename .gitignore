@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# CSV reports
+*.csv
+
+# PowerShell
+*.ps1xml
+*.pssc
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VS Code
+.vscode/
